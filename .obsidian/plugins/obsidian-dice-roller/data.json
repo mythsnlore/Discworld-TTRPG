@@ -1,0 +1,118 @@
+{
+  "position": "RIGHT",
+  "showFudgeIcon": false,
+  "rollLinksForTags": false,
+  "copyContentButton": true,
+  "customFormulas": [
+    "2d6"
+  ],
+  "displayFormulaForMod": true,
+  "displayResultsInline": false,
+  "displayFormulaAfter": false,
+  "escapeDiceMod": true,
+  "signed": false,
+  "displayLookupRoll": true,
+  "formulas": {},
+  "defaultRoll": 1,
+  "defaultFace": 100,
+  "renderer": false,
+  "renderAllDice": false,
+  "addToView": false,
+  "renderTime": 2000,
+  "colorfulDice": false,
+  "scaler": 1,
+  "diceColor": "#202020",
+  "textColor": "#ffffff",
+  "textFont": "Arial",
+  "showLeafOnStartup": true,
+  "narrativeSymbolSet": "Genesys",
+  "displayAsSymbols": false,
+  "displayAsEmbed": true,
+  "round": "None",
+  "initialDisplay": "Roll",
+  "icons": [
+    {
+      "id": "dice-roller-d4",
+      "shape": "Triangle",
+      "formula": "d4",
+      "text": "4"
+    },
+    {
+      "id": "dice-roller-d6",
+      "shape": "Square",
+      "formula": "d6",
+      "text": "6"
+    },
+    {
+      "id": "dice-roller-d8",
+      "shape": "Diamond",
+      "formula": "d8",
+      "text": "8"
+    },
+    {
+      "id": "dice-roller-d10",
+      "shape": "Diamond",
+      "formula": "d10",
+      "text": "10"
+    },
+    {
+      "id": "dice-roller-d12",
+      "shape": "Dodecahedron",
+      "formula": "d12",
+      "text": "12"
+    },
+    {
+      "id": "dice-roller-d20",
+      "shape": "Icosahedron",
+      "formula": "d20",
+      "text": "20"
+    },
+    {
+      "id": "dice-roller-d100",
+      "shape": "Circle",
+      "formula": "d%",
+      "text": "%"
+    }
+  ],
+  "showRenderNotice": true,
+  "diceModTemplateFolders": {},
+  "replaceDiceModInLivePreview": true,
+  "viewResults": [
+    {
+      "result": "10",
+      "original": "2d6",
+      "resultText": "2d6\n[4, 6]",
+      "timestamp": 1736550450791,
+      "id": "ayjEa2v0UWEA"
+    },
+    {
+      "result": "7",
+      "original": "2d6",
+      "resultText": "2d6\n[4, 3]",
+      "timestamp": 1736550466647,
+      "id": "azXGkFgB7GvB"
+    },
+    {
+      "result": "3",
+      "original": "2d6",
+      "resultText": "2d6\n[2, 1]",
+      "timestamp": 1736550470694,
+      "id": "sOoRgQ7hK-jV"
+    },
+    {
+      "result": "5",
+      "original": "2d6",
+      "resultText": "2d6\n[4, 1]",
+      "timestamp": 1736550472614,
+      "id": "qMiKxLDlIMMV"
+    },
+    {
+      "result": "9",
+      "original": "2d6",
+      "resultText": "2d6\n[6, 3]",
+      "timestamp": 1736550474398,
+      "id": "PiFffpqyK2sw"
+    }
+  ],
+  "version": "11.4.1"
+}

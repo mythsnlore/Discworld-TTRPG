@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"19f09b19276e15bb","x":-280,"y":20,"width":400,"height":240,"type":"file","file":"Discworld Map.md"},
+		{"id":"6e4b87acb8fd4a7c","x":40,"y":-320,"width":250,"height":60,"type":"text","text":"What what"},
+		{"id":"27add0948de0c304","x":-400,"y":-460,"width":396,"height":400,"type":"file","file":"Discworld_Map.jpg"}
+	],
+	"edges":[
+		{"id":"cbeb39adbfe15bca","fromNode":"6e4b87acb8fd4a7c","fromSide":"bottom","toNode":"19f09b19276e15bb","toSide":"top"},
+		{"id":"fdf414ebd48a07ff","fromNode":"6e4b87acb8fd4a7c","fromSide":"bottom","toNode":"19f09b19276e15bb","toSide":"right"}
+	]
+}
