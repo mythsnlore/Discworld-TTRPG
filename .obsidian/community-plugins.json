@@ -3,5 +3,7 @@
   "obsidian-meta-bind-plugin",
   "obsidian-excalidraw-plugin",
   "obsidian-dice-roller",
-  "solo-rpg-toolkit"
+  "solo-rpg-toolkit",
+  "templater-obsidian",
+  "dataview"
 ]

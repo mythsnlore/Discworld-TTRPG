@@ -3,7 +3,7 @@
     {
       "id": "dw-main",
       "locked": false,
-      "lastAccessed": 1736542517091,
+      "lastAccessed": 1736629930614,
       "markers": [
         {
           "id": "ID_aa8b0ae86b9b",
@@ -16,7 +16,7 @@
           "mutable": true,
           "command": false,
           "percent": null,
-          "description": "Test Zoom 10",
+          "description": "Test Zoom 5",
           "minZoom": 5,
           "maxZoom": null,
           "tooltip": "hover"
@@ -56,6 +56,78 @@
               "lat": 13.196044921875,
               "lng": 24.24462890625,
               "id": "ID_09ab6a9a78ea",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": 242.193359375,
+              "lng": 408.22451334617284,
+              "id": "ID_4adadb98c9da",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 247.318359375,
+              "lng": 414.2265188533592,
+              "id": "ID_faaaa8eb9848",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 254.943359375,
+              "lng": 415.35189488595665,
+              "id": "ID_8949191b5b88",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 279.318359375,
+              "lng": 416.97714557435495,
+              "id": "ID_e82aa8fabbd8",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 285.818359375,
+              "lng": 422.6040257373422,
+              "id": "ID_ca282b19687b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 291.068359375,
+              "lng": 431.982159342321,
+              "id": "ID_ea5a692a9b89",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 292.318359375,
+              "lng": 443.73608679389434,
+              "id": "ID_1909797979b8",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 295.943359375,
+              "lng": 460.99185262705527,
+              "id": "ID_eb9bcba928c9",
               "targets": {
                 "vertexIds": []
               }
