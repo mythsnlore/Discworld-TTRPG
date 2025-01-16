@@ -3,7 +3,7 @@
     {
       "id": "dw-main",
       "locked": false,
-      "lastAccessed": 1736629930614,
+      "lastAccessed": 1736997347876,
       "markers": [
         {
           "id": "ID_aa8b0ae86b9b",
@@ -36,6 +36,95 @@
           "minZoom": null,
           "maxZoom": 2,
           "tooltip": "always"
+        },
+        {
+          "id": "ID_5858b888c85a",
+          "type": "cult",
+          "loc": [
+            272,
+            457.7532106907324
+          ],
+          "layer": "%5B%5BDiscworld_Map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            171792.78119300122,
+            -101139.24539007092
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_09181beb0ada",
+          "type": "capitol",
+          "loc": [
+            261.927734375,
+            472.7653592502603
+          ],
+          "layer": "%5B%5BDiscworld_Map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e899ab786bc9",
+          "type": "village",
+          "loc": [
+            258.5263671875,
+            463.50329746615756
+          ],
+          "layer": "%5B%5BDiscworld_Map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_aa7b099be8e8",
+          "type": "city",
+          "loc": [
+            263.25,
+            447.0100659493231
+          ],
+          "layer": "%5B%5BDiscworld_Map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            167760.925881488,
+            -97885.68510638298
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_78ea980b3b9a",
+          "type": "travel",
+          "loc": [
+            250.875,
+            444.87348143005903
+          ],
+          "layer": "%5B%5BDiscworld_Map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            166959.07504080373,
+            -93284.22127659574
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
         }
       ],
       "overlays": [],
@@ -138,26 +227,204 @@
         }
       ],
       "files": [
-        "Discworld Map.md"
+        "Locations/Discworld Map.md"
       ]
     }
   ],
   "defaultMarker": {
     "type": "default",
-    "iconName": "map-marker",
-    "color": "#dddddd",
+    "iconName": "map-marker-alt",
+    "color": "#e39d3b",
     "transform": {
       "size": 6,
       "x": 0,
       "y": -2
-    }
+    },
+    "isImage": false
   },
-  "markerIcons": [],
+  "markerIcons": [
+    {
+      "type": "dock",
+      "iconName": "anchor",
+      "color": "#168d79",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "mage",
+      "iconName": "hat-wizard",
+      "color": "#9936ce",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "landmark",
+      "iconName": "compass",
+      "color": "#6c450f",
+      "alpha": 0.49,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "store",
+      "iconName": "shopping-cart",
+      "color": "#1e992d",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "cult",
+      "iconName": "pastafarianism",
+      "color": "#d16666",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "capitol",
+      "iconName": "star",
+      "color": "#1c1c1c",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "castle",
+      "iconName": "chess-rook",
+      "color": "#1c1c1c",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "village",
+      "iconName": "dot-circle",
+      "color": "#171717",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "city",
+      "iconName": "square",
+      "color": "#1c1c1c",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "travel",
+      "iconName": "luggage-cart",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "danger",
+      "iconName": "exclamation-triangle",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
   "color": "#dddddd",
   "lat": 39.983334,
   "long": -82.98333,
   "notePreview": false,
-  "layerMarkers": true,
+  "layerMarkers": false,
   "previousVersion": "6.0.5",
   "version": {
     "major": 6,

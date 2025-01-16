@@ -18,3 +18,18 @@ actions:
     openIfAlreadyExists: false
 
 ```
+```meta-bind-button
+label: This is a button
+icon: ""
+hidden: false
+class: ""
+tooltip: ""
+id: ""
+style: default
+actions: []
+
+```
+
+Icons? :LiDice6:
+:FarFaceMeh: 
+:LiAngry:
